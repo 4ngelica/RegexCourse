@@ -1,4 +1,5 @@
 //Introdução aos metacaracteres
+//Uso do Scape (\) para buscar elementos literais
 
 const texto = "1,2,3,4,5,6,a.b c!d?e";
 const regexPonto = /\./g; //Expressão de busca para o caractere simples (escrito na forma literal) "." de forma global
